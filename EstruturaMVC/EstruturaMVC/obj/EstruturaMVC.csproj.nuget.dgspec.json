@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\danta\\Documents\\GitHub\\ASPNETCoreMVCLojaVirtual\\EstruturaMVC\\EstruturaMVC\\EstruturaMVC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\danta\\Documents\\GitHub\\ASPNETCoreMVCLojaVirtual\\EstruturaMVC\\EstruturaMVC\\EstruturaMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danta\\Documents\\GitHub\\ASPNETCoreMVCLojaVirtual\\EstruturaMVC\\EstruturaMVC\\EstruturaMVC.csproj",
+        "projectName": "EstruturaMVC",
+        "projectPath": "C:\\Users\\danta\\Documents\\GitHub\\ASPNETCoreMVCLojaVirtual\\EstruturaMVC\\EstruturaMVC\\EstruturaMVC.csproj",
+        "packagesPath": "C:\\Users\\danta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danta\\Documents\\GitHub\\ASPNETCoreMVCLojaVirtual\\EstruturaMVC\\EstruturaMVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
